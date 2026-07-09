@@ -41,7 +41,7 @@ st.markdown("""
         font-weight: 600;
     }
 </style>
-""", unsafe_html=True)
+""", unsafe_allow_html=True)
 
 # ==========================================================================
 # Projects Database (Mirroring HTML database for consistency)
