@@ -197,9 +197,10 @@ with st.sidebar:
     st.caption("College of Engineering")
     
     st.divider()
-    st.markdown("### Profiles")
+    st.markdown("### Profiles & Links")
     st.markdown("[LinkedIn](https://linkedin.com/in/johnparentejr)")
     st.markdown("[GitHub](https://github.com/johnparente97)")
+    st.markdown("[Web Portfolio (GitHub Pages)](https://johnparente97.github.io/Demo)")
 
 # ==========================================================================
 # Main Content Area

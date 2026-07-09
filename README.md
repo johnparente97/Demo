@@ -1,16 +1,16 @@
 # Interactive Professional Portfolio & GPO Analytics Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active-success?logo=github&logoColor=white)](https://pages.github.com)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://59azbpzj2vwbkwcn7mjaqe.streamlit.app)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active-success?logo=github&logoColor=white)](https://johnparente97.github.io/Demo)
 
-Welcome! This repository hosts a dual-concept professional portfolio showcasing my background in **Group Purchasing Organization (GPO) account management**, **procurement analytics**, and **machine learning/AI implementations**.
+Welcome! This repository hosts a dual-concept professional portfolio explaining the purpose behind my apps, my professional background in **Group Purchasing Organization (GPO) account management**, **procurement spend analytics**, and **AI/machine learning models**.
 
 ---
 
 ## 🔗 Live Access Links
 
-*   **Interactive Web Portfolio (GitHub Pages):** `https://johnparente97.github.io/<your-repo-name>` (Replace `<your-repo-name>` with this repository's name once pushed)
-*   **Analytics Dashboard (Streamlit Cloud):** `https://<your-app-name>.streamlit.app` (Link your Streamlit Community Cloud deployment here)
+*   🚀 **[Launch Interactive Analytics Dashboard (Streamlit Cloud)](https://59azbpzj2vwbkwcn7mjaqe.streamlit.app)**
+*   🖥️ **[Launch Web Portfolio (GitHub Pages)](https://johnparente97.github.io/Demo)**
 
 ---
 
@@ -48,14 +48,14 @@ A Python Streamlit app offering data-driven insights:
 1. Commit and push all files in this directory to a public GitHub repository.
 2. Sign in to [Streamlit Community Cloud](https://share.streamlit.io) using your GitHub account.
 3. Click **New App**, select your repository, specify the branch (usually `main`), and set the main file path to `app.py`.
-4. Click **Deploy!** Your app will be live at a custom `<your-app-name>.streamlit.app` address within minutes.
+4. Click **Deploy!** Your app is now live at: https://59azbpzj2vwbkwcn7mjaqe.streamlit.app
 
 ### How to Host the Static Portfolio Page (GitHub Pages)
 1. Go to your repository settings on GitHub.
 2. Scroll to the **Pages** menu on the left sidebar.
 3. Under **Build and deployment**, set the source to **Deploy from a branch**.
 4. Select `main` (or your current branch) and `/ (root)` folder, then click **Save**.
-5. GitHub will generate a URL (usually `https://johnparente97.github.io/<repository-name>`) hosting your interactive webpage.
+5. GitHub has hosted your webpage at: https://johnparente97.github.io/Demo/
 
 ### How to Run Locally
 
