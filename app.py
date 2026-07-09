@@ -263,7 +263,7 @@ with tab_overview:
             title="Spend Volume by GPO Category",
             labels={'Spend_Volume_USD': 'Spend Volume ($)', 'Category': 'Category'},
             color='Category',
-            color_discrete_sequence=px.colors.sequential.Indigo
+            color_discrete_sequence=["#6366f1", "#3b82f6", "#10b981", "#f59e0b"]
         )
         st.plotly_chart(fig_spend, use_container_width=True)
         
@@ -277,7 +277,7 @@ with tab_overview:
             labels={'Compliance_Rate': 'Compliance Utilization', 'Category': 'Category'},
             orientation='h',
             color='Category',
-            color_discrete_sequence=px.colors.sequential.Blues_r
+            color_discrete_sequence=["#6366f1", "#3b82f6", "#10b981", "#f59e0b"]
         )
         fig_comp.update_layout(xaxis_tickformat=',.0%')
         st.plotly_chart(fig_comp, use_container_width=True)
